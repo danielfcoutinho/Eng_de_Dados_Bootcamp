@@ -2,7 +2,7 @@
 
 # Realizado no Bootcamp de Eng de Dados por Daniel Coutinho
 
-# Fundamentos de Engenharia de Dados
+# SQL
 
 from sqlalchemy import create_engine
 import pandas as pd
