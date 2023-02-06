@@ -1,6 +1,6 @@
 # Realizado no Bootcamp de Eng de Dados por Daniel Coutinho
 
-# Fundamentos de Engenharia de Dados
+# Capturando dados de uma API
 
 # Script de introdução a orientação a objetos para trabalhar princípios e heranças de classe
 # Princípio de aberto e fechado
