@@ -1,3 +1,9 @@
+# Código para ler tabela de dados dos resultados da Lotofácil no site da Caixa Econômica Federal para analisar as combinações de números entre pares, ímpares e primos que mais ocorrem
+
+# Realizado no Bootcamp de Eng de Dados por Daniel Coutinho
+
+# Fundamentos de Engenharia de Dados
+
 # Importação de pacotes
 import requests
 import pandas as pd
